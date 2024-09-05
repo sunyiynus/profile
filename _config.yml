@@ -119,10 +119,10 @@ author:
   location         : "ShangHai"
   email            :
   links:
-    - label: "Email"
+    - label: "iuamyy@163.com"
       icon: "fas fa-fw fa-envelope-square"
-      url: "sunyi119559@gmail.com"
-    - label: "Website"
+      url: "iuamyy@163.com"
+    - label: "None"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
